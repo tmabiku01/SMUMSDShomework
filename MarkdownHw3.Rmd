@@ -7,7 +7,7 @@ output: html_document
 
 
 ---
-###Installed packages:"fivethirtyeight") ,"vcdExtra","rplyr","plyr","ggplo2"
+###Installed packages:"fivethirtyeight") ,"vcdExtra","rplyr","plyr","ggplo2", "Rcul"
 
 #1. The code I used to create a new directory, navigate to my directory, and clone the repositorym to it with Git.
 
@@ -215,5 +215,7 @@ Sys.setenv(TZ='EST')
 write.csv(df, file = "C:\\Datascience\\WH3\\thotho1.csv",row.names=FALSE, na="")
 ```
 
+#The link to my GitHub Repository
+#https://github.com/tmabiku01/SMUMSDShomework
 
 
